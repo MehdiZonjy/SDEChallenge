@@ -18,7 +18,7 @@ Write an interface for a data structure that can provide the moving average of t
 - Stores all items in internal Array
 - When the Array is 75% full, it gets resized
 - While adding new item, variable `sum` keeps the sum of last N added elements, this optimises the process of calculating moving avg 
-- unit tests available in [MovingAvgTest](moving_avg/src/test/scala/MovingAvg.scala)
+- unit tests available in [MovingAvgTest](moving_avg/src/test/scala/MovingAvgTest.scala)
 ---
 ## Design Question
 
